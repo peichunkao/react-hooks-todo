@@ -1,7 +1,7 @@
 {
   "name": "react-hooks-todo",
   "version": "0.1.0",
-  "homepage": "https://peichunkao.github.io/react-hooks-todo",
+  "homepage": "https://peichunkao.github.io/react_hooks_todo",
   "private": true,
   "dependencies": {
     "@material-ui/icons": "^4.5.1",
