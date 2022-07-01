@@ -8,7 +8,6 @@ import IconButton from "@material-ui/core/IconButton";
 import DeleteIcon from "@material-ui/icons/Delete";
 import EditIcon from "@material-ui/icons/Edit";
 import ListItemSecondaryAction from "@material-ui/core/ListItemSecondaryAction";
-import uuid from "uuid/v4"
 
 function Todo({ task, completed, removeTodo, id, toggleTodo, editTodo }) {
   const [isEditing, toggle] = useToggleState(false);

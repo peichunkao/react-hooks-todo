@@ -1,5 +1,4 @@
 import React from "react";
-import { useEffect } from "react";
 import useTodoState from "./hooks/useTodoState";
 import Typography from "@material-ui/core/Typography";
 import Paper from "@material-ui/core/Paper";
